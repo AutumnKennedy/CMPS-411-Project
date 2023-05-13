@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SFNNQOKqVYhowz5u1K90yih6Kixq64Y/0sJQj4gdwy5uLYR+i717wvgIFk73JYea52nnJ32bEpaW6+L9P6Nq5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\autum\\Project\\411CMPS\\HelpfulNeighbor\\HelpfulNeighbor.web\\HelpfulNeighbor.web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\autum\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\7.0.2\\microsoft.aspnetcore.spaproxy.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
