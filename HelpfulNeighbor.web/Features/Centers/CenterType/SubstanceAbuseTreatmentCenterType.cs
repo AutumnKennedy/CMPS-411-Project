@@ -3,7 +3,7 @@ using System.Diagnostics.CodeAnalysis;
 
 namespace HelpfulNeighbor.web.Features.Centers.CenterType
 {
-    public class SubstanceAbuseCenterType
+    public class SubstanceAbuseTreatmentCenterType
     {
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }

@@ -1,6 +1,6 @@
 ﻿namespace HelpfulNeighbor.web.Features.Centers
 {
-    public class MentalHealthCenterDto
+    public class MentalHealthTreatmentCenterDto
     {
         public int Id { get; set; }
         public string Name { get; set; }
