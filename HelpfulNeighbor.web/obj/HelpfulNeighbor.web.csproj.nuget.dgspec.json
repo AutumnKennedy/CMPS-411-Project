@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\autum\\Project\\411CMPS\\HelpfulNeighbor\\HelpfulNeighbor.web\\HelpfulNeighbor.web.csproj": {}
+    "C:\\Users\\autum\\Project\\CMPS-411-Project\\HelpfulNeighbor.web\\HelpfulNeighbor.web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\autum\\Project\\411CMPS\\HelpfulNeighbor\\HelpfulNeighbor.web\\HelpfulNeighbor.web.csproj": {
+    "C:\\Users\\autum\\Project\\CMPS-411-Project\\HelpfulNeighbor.web\\HelpfulNeighbor.web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\autum\\Project\\411CMPS\\HelpfulNeighbor\\HelpfulNeighbor.web\\HelpfulNeighbor.web.csproj",
+        "projectUniqueName": "C:\\Users\\autum\\Project\\CMPS-411-Project\\HelpfulNeighbor.web\\HelpfulNeighbor.web.csproj",
         "projectName": "HelpfulNeighbor.web",
-        "projectPath": "C:\\Users\\autum\\Project\\411CMPS\\HelpfulNeighbor\\HelpfulNeighbor.web\\HelpfulNeighbor.web.csproj",
+        "projectPath": "C:\\Users\\autum\\Project\\CMPS-411-Project\\HelpfulNeighbor.web\\HelpfulNeighbor.web.csproj",
         "packagesPath": "C:\\Users\\autum\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\autum\\Project\\411CMPS\\HelpfulNeighbor\\HelpfulNeighbor.web\\obj\\",
+        "outputPath": "C:\\Users\\autum\\Project\\CMPS-411-Project\\HelpfulNeighbor.web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\autum\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,9 +40,23 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
             "Microsoft.AspNetCore.SpaProxy": {
               "target": "Package",
-              "version": "[7.0.2, )"
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
             }
           },
           "imports": [
