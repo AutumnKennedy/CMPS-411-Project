@@ -1,4 +1,5 @@
-﻿using HelpfulNeighbor.web.Features.Centers;
+﻿using HelpfulNeighbor.web.Features.Authorization;
+using HelpfulNeighbor.web.Features.Centers;
 using HelpfulNeighbor.web.Features.Centers.CenterType;
 using HelpfulNeighbor.web.Features.Shelters;
 using HelpfulNeighbor.web.Features.Shelters.ShelterType;
@@ -9,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace HelpfulNeighbor.web.Data
 {
-    public class DataContext : IdentityDbContext
+    public class DataContext : IdentityDbContext <User, Role, int, IdentityUserClaim<int>, UserRole, IdentityUserLogin<int>, IdentityRoleClaim<int>, IdentityUserToken<int>>
     {
         public DataContext(DbContextOptions<DataContext> options) : base(options) 
         { 
