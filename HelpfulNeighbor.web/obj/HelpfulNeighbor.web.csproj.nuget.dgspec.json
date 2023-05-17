@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\autum\\Project\\CMPS-411-Project\\HelpfulNeighbor.web\\HelpfulNeighbor.web.csproj": {}
+    "C:\\Users\\payti\\Projects\\CMPS-411-Project\\HelpfulNeighbor.web\\HelpfulNeighbor.web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\autum\\Project\\CMPS-411-Project\\HelpfulNeighbor.web\\HelpfulNeighbor.web.csproj": {
+    "C:\\Users\\payti\\Projects\\CMPS-411-Project\\HelpfulNeighbor.web\\HelpfulNeighbor.web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\autum\\Project\\CMPS-411-Project\\HelpfulNeighbor.web\\HelpfulNeighbor.web.csproj",
+        "projectUniqueName": "C:\\Users\\payti\\Projects\\CMPS-411-Project\\HelpfulNeighbor.web\\HelpfulNeighbor.web.csproj",
         "projectName": "HelpfulNeighbor.web",
-        "projectPath": "C:\\Users\\autum\\Project\\CMPS-411-Project\\HelpfulNeighbor.web\\HelpfulNeighbor.web.csproj",
-        "packagesPath": "C:\\Users\\autum\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\autum\\Project\\CMPS-411-Project\\HelpfulNeighbor.web\\obj\\",
+        "projectPath": "C:\\Users\\payti\\Projects\\CMPS-411-Project\\HelpfulNeighbor.web\\HelpfulNeighbor.web.csproj",
+        "packagesPath": "C:\\Users\\payti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\payti\\Projects\\CMPS-411-Project\\HelpfulNeighbor.web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\autum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\payti\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
