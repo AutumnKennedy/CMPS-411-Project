@@ -120,7 +120,7 @@ namespace HelpfulNeighbor.web.Controllers
             donationCenterToUpdate.TypeId = donationCenterUpdateDto.TypeId;
             _dataContext.SaveChanges();
 
-
+            
             var donationCenterToReturn = new DonationCenterGetDto
             {
                 Id = donationCenterToUpdate.Id,
