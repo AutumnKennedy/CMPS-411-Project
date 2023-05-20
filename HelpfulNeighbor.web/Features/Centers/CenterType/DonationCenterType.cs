@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
-using System.Diagnostics.CodeAnalysis
+using System.Diagnostics.CodeAnalysis;
 
 namespace HelpfulNeighbor.web.Features.Centers.CenterType
 {
