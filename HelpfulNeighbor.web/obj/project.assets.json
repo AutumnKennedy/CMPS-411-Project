@@ -3666,26 +3666,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\payti\\.nuget\\packages\\": {}
+    "/Users/kaitlynhayes/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\payti\\Projects\\CMPS-411-Project\\HelpfulNeighbor.web\\HelpfulNeighbor.web.csproj",
+      "projectUniqueName": "/Users/kaitlynhayes/Projects/CMPS-411-Project/HelpfulNeighbor.web/HelpfulNeighbor.web.csproj",
       "projectName": "HelpfulNeighbor.web",
-      "projectPath": "C:\\Users\\payti\\Projects\\CMPS-411-Project\\HelpfulNeighbor.web\\HelpfulNeighbor.web.csproj",
-      "packagesPath": "C:\\Users\\payti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\payti\\Projects\\CMPS-411-Project\\HelpfulNeighbor.web\\obj\\",
+      "projectPath": "/Users/kaitlynhayes/Projects/CMPS-411-Project/HelpfulNeighbor.web/HelpfulNeighbor.web.csproj",
+      "packagesPath": "/Users/kaitlynhayes/.nuget/packages/",
+      "outputPath": "/Users/kaitlynhayes/Projects/CMPS-411-Project/HelpfulNeighbor.web/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\payti\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/kaitlynhayes/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "/usr/local/share/dotnet/library-packs": {},
+        "/usr/local/share/dotnet/sdk/7.0.302/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3742,7 +3742,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
       }
     }
   }
