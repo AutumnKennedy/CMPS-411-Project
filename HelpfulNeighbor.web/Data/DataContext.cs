@@ -28,6 +28,9 @@ namespace HelpfulNeighbor.web.Data
         public DbSet<SubstanceAbuseTreatmentCenter> SubstanceAbuseTreatmentCenter { get; set; }
         public DbSet<SubstanceAbuseTreatmentCenterType> SubstanceAbuseTreatmentCenterType { get; set; }
 
+        public DbSet<SoupKitchenType> SoupKitchen { get; set; }
+        public DbSet<SoupKitchenType> SoupKitchenType { get; set; }
+
 
         public DataContext() 
         { 
