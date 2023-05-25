@@ -2,7 +2,7 @@
 "SpaProxyServer": {
 "ServerUrl": "https://localhost:44472",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\autum\\Project\\CMPS-411-Project\\HelpfulNeighbor.web\\ClientApp\\",
+"WorkingDirectory": "C:\\Users\\hayes\\Projects\\CMPS-411-Project\\HelpfulNeighbor.web\\ClientApp\\",
 "MaxTimeoutInSeconds": "120"
 }
 }
